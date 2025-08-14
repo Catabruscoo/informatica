@@ -1,12 +1,21 @@
 /*selector de etiquetas*/
 h1 {
-    color:red;
+    color:rgb(91, 53, 141);
 }
 h2 {
-    color:blue;
+    color:rgb(104, 104, 180);
 }
 /*selector de clase*/
 .oscuro{
-    background-color: black;
+    background-color: rgb(108, 129, 160);
     color: white;
+}
+/*selector ID*/
+#biografia{
+    background-color: rgb(223, 238, 234);
+    color: black;
+}
+#frases{
+    background-color: rgb(223, 238, 234);
+    color: black;
 }
